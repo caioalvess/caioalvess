@@ -1,8 +1,8 @@
 ## Oi, eu sou Caio!
- <div style="display: flex" style="flexwrap: no-wrap">
+ <div>
   <a href="https://github.com/caioalvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioalvess&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvess&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=caioalvess&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvess&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
